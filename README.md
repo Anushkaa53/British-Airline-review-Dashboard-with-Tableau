@@ -9,6 +9,7 @@ This section details the types of data used, the data sources, and the overall o
 
 # 2)Average Custom Metric By Country:
 Visualization Type: Map
+
 Techniques Used: Custom Parameter, Calculated Field, Advanced Filters
 
 This section demonstrates how to visualize the average custom metric by country using a map. It includes detailed steps on creating the visualization, using custom parameters, calculating fields, and applying advanced filters to refine the data.
