@@ -1,6 +1,6 @@
 # British-Airline-review-Dashboard-with-Tableau
 
-This project focuses on creating an interactive and insightful dashboard to visualize key metrics from the British Airlines dataset. 
+This project focuses on creating an interactive and insightful [dashboard](https://public.tableau.com/views/AircraftReview_17152738333750/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link) to visualize key metrics from the British Airlines dataset. 
 The project is structured as follows:
 
 # 1) Data & Dashboard Overview:
@@ -25,3 +25,5 @@ This section shows how to compare the average custom metric across different air
 
 # 5)Building & Formatting the Dashboard:
 This final section integrates all visualizations into a cohesive dashboard, focusing on design, layout, and formatting to ensure the dashboard is user-friendly and visually appealing.
+
+
